@@ -2,7 +2,7 @@
 
 # Proyecto utilizando "Amazon Sales Dataset"
 
-Este proyecto tuvo como objetivo realizar una limpieza, una transformación de los dato y un análisis exploratorio de datos (EDA) sobre un conjunto de datos de productos de Amazon. El conjunto de datos contiene información sobre precios, descuentos, calificaciones, y etc. A través de este análisis, se busca obtener información útil para comprender las relaciones entre las variables y hacer recomendaciones sobre estrategias de precios y descuentos.
+Este proyecto tuvo como objetivo realizar una limpieza, una transformación de los dato y un análisis exploratorio de datos (EDA) sobre un conjunto de datos de productos de Amazon. El conjunto de datos contiene información sobre precios, descuentos, calificaciones, entre otras cosas. A través de este análisis, se busca obtener información útil para comprender las relaciones entre las variables y hacer recomendaciones sobre estrategias de precios y descuentos.
 
 ## Descripción
 
